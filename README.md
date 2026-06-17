@@ -53,14 +53,16 @@ Tools:         Streamlit, Jupyter, ETL/ELT pipelines
 
 <div align="center">
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayD2028&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayD2028&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayD2028&layout=compact&theme=tokyonight&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinayD2028&theme=tokyonight&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=VinayD2028&theme=tokyonight&no-frame=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VinayD2028&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VinayD2028&theme=tokyo-night&hide_border=true)](https://github.com/VinayD2028)
+
+![Snake animation](https://raw.githubusercontent.com/VinayD2028/VinayD2028/output/github-snake-dark.svg)
 
 </div>
 
